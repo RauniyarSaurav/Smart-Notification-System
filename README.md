@@ -13,3 +13,6 @@ This is a Java-based Smart Notification System project.
 
 ## Author
 Saurav Kumar
+## Example Run
+
+![Output](Output.png)
