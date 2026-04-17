@@ -2,7 +2,8 @@
 
 ## Description
 This is a Java-based Smart Notification System project.
-
+## Project Type
+Console-based Java Application
 ## Features
 - Send notifications
 - Manage alerts
