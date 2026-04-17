@@ -10,7 +10,10 @@ This is a Java-based Smart Notification System project.
 
 ## Technology Used
 - Java
-
+## How to Run
+1. Compile the program
+2. Run Main.java
+3. Enter user details as prompted
 ## Author
 Saurav Kumar
 ## Example Run
